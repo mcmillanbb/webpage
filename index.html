@@ -14,13 +14,42 @@
     })();
 
   </script>
+
+  <style>
+  * {
+    box-sizing: border-box;
+  }
+
+  /* Create two equal columns that floats next to each other */
+  .column {
+    float: left;
+    width: 50%;
+    padding: 10px;
+  }
+
+  /* Clear floats after the columns */
+  .row:after {
+    content: "";
+    display: table;
+    clear: both;
+  }
+  </style>
  </head>
  <body>
-  <h1>Ben McMillan</h1>
 
-  <p class="headhrr"><b>Office:</b> Simons 508<br><b>Email:</b>benjamin.mcmillan@stonybrook.edu
   <p>
-  I am Ben McMillan, a postdoc with a joint appointment at Stony Brook math and the Simons Center for Geometry and Physics. My current research interests are differential geometry, particularly the geometry of PDE.
+    <div class="row">
+     <div class="column">
+       <h1>Ben McMillan</h1>
+
+       <p class="headhrr"><b>Office:</b> 739 Ingkarni Wardli<br><b>Email:</b>benjamin.mcmillan@adelaide.edu.au
+         <p>
+           I am Ben McMillan, a postdoc at the university of Adelaide. My current research interests are differential geometry, particularly the geometry of PDE, singular foliations, and quasiconformal geometry.
+     </div>
+     <div class="column">
+       <img src="Benjamin.jpg" alt="A photo of Ben" height=35%>
+     </div>
+    </div>
 
   <hr>
   <h2>Research</h2>
@@ -30,6 +59,7 @@
     <p>
     I have two papers extending this work:
 
+    <!-- Link to published versions, with a second link to the Arxiv -->
     <p>
     <a href="https://arxiv.org/abs/1810.00458">Geometry and Conservation Laws for a Class of Second-Order Parabolic Equations I: Geometry</a>
 
@@ -77,8 +107,8 @@
 
   <hr>
 
-  <h2>Teaching</h2>
-This semester I am teaching Math 315, Advanced Linear Algebra. The course webpage is <a href="math315/index.html">here</a>.
+  <!-- <h2>Teaching</h2>
+This semester I am teaching Math 315, Advanced Linear Algebra. The course webpage is <a href="math315/index.html">here</a>. -->
 
 
 
