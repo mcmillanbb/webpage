@@ -1,0 +1,71 @@
+# submitted
+- authors: "B. McMillan"
+  title: "Indecomposable quasiconformal maps of manifolds"
+  status: submitted
+  arxiv: "2605.21894"
+
+- authors: "B. McMillan"
+  title: "Foliation surgeries and the concordance groups of foliated spheres"
+  status: submitted
+  arxiv: "2511.09053"
+
+
+- authors: "B. McMillan"
+  title: "A characterization of Pfaffian embeddings from (2,3,5)- into flat (4,7)-geometries"
+  status: submitted
+  arxiv: "2404.14988"
+
+# Accepted
+
+- authors: "L. MacDonald, B. McMillan"
+  title: "Chern–Weil theory for singular Haefliger foliations"
+  journal: "Differential Geom. Appl."
+  status: to appear
+  arxiv: "2106.10078"
+
+- authors: "F. Costanza, M. Eastwood, T. Leistner, B. McMillan"
+  title: "A Calabi operator for Riemannian locally symmetric spaces"
+  journal: "Amer. J. Math."
+  volume: 148
+  number: 4
+  year: 2026
+  pages: "1003–1028"
+  doi: "10.1353/ajm.2026.a997138"
+  arxiv: "2112.00841"
+
+- authors: "F. Costanza, M. Eastwood, T. Leistner, B. McMillan"
+  title: "The range of a connection and a Calabi operator for Lorentzian locally symmetric spaces"
+  journal: "Asian J. Math."
+  volume: 29
+  number: 2
+  year: 2025
+  pages: "171–200"
+  doi: "10.4310/ajm.250717205700"
+  arxiv: "2302.04480"
+
+- authors: "B. McMillan"
+  title: "Geometry and conservation laws for a class of second-order parabolic equations II: conservation laws"
+  journal: "SIGMA Symmetry Integrability Geom. Methods Appl."
+  volume: 17
+  article: "047"
+  year: 2021
+  doi: "10.3842/SIGMA.2021.047"
+  arxiv: "1810.02346"
+
+- authors: "B. McMillan"
+  title: "Geometry and conservation laws for a class of second-order parabolic equations I: geometry"
+  journal: "J. Geom. Phys."
+  volume: 157
+  article: "103824"
+  year: 2020
+  doi: "10.1016/j.geomphys.2020.103824"
+  arxiv: "1810.00458"
+
+- authors: "C. Y. Ku, B. McMillan"
+  title: "Independent sets of maximal size in tensor powers of vertex transitive graphs"
+  journal: "Journal of Graph Theory"
+  volume: 60
+  number: 4
+  year: 2009
+  pages: "295–301"
+  doi: "10.1002/jgt.20359"
