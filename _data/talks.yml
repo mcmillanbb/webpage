@@ -1,46 +1,172 @@
+- title: "Foliation surgeries and Godbillon–Vey spheres"
+  seminar: "Topology Seminar"
+  place: "Purdue University (online)"
+  date: "1/21/2026"
+  invited: true
 
+- title: "Foliation surgery and continuous variation of characteristic classes on spheres"
+  seminar: "Special Session, Symmetry and Integrability of Geometric Structures, KMS Annual Meeting"
+  place: "ST Center, Seoul"
+  date: "10/23/2025"
 
+- title: "Secondary characteristic classes and Chern–Weil theory of singular foliations"
+  seminar: "Three-lecture series, Complex Geometry Seminar"
+  place: "IBS CCG, Daejeon"
+  date: "5/20–22/2025"
 
+- title: "Invariant prolongation of the conformal Killing equation via conformal tractors"
+  seminar: "Geometry Session, KMS Spring Meeting"
+  place: "KAIST, Daejeon"
+  date: "4/25/2025"
 
+- title: "Embeddable (2,3,5) distributions"
+  seminar: "Workshop on Parabolic Geometry and Related Topics"
+  place: "IBS CCG, Daejeon"
+  date: "10/18/2023"
+  invited: true
 
+- title: "The image of the Killing operator"
+  seminar: "Complex Geometry Seminar"
+  place: "IBS CCG, Daejeon"
+  date: "9/15/2022"
+  notes: "Talks/ImageOfKilling.pdf"
 
-      <h2 style="margin-left: 5%">Talks and Presentations</h2>
-      Here is a list of talks I've given, some with links to the notes.
-      <ol>
-	<!-- invited -->
-	<!--  <li><i>Title</i>, Seminar, Place, Date. <a href="notes">[Notes]</a></li>  -->
+- title: "Calabi operators for locally symmetric spaces"
+  seminar: "QMAP Seminar"
+  place: "UC Davis (online)"
+  date: "1/28/2022"
+  notes: "Talks/CalabiOperator.pdf"
+  invited: true
 
-	<li><i>The image of the Killing operator</i>, Complex Geometry Seminar, IBS Center for Complex Geometry, 9/15/2022. <a href="Talks/ImageOfKilling.pdf">[Notes]</a></li>
-	<!-- invited -->
-	<li><i>Calabi operators for locally symmetric spaces</i>, QMAP group, UC Davis, 1/28/22. <a href="Talks/CalabiOperator.pdf">[Notes]</a></li>
-	<!-- invited -->
-	<li><i>The secondary characteristic classes of singular foliations</i>, AustMS Meeting 2021, Newcastle, 12/8/2021. <a href="Talks/Secondary characteristic classes singular foliations.pdf">[Notes]</a></li>
-	<!-- invited -->
-	<li><i>Conservation laws and parabolic Monge-Ampère equations</i> AMS JMM Special Session 2020, Colorado, 1/17/2020. <a href="Talks/Conservation Laws and Parabolic Monge-Ampere JMM.pdf">[Notes]</a> </li>
-	<li><i>Conservation laws and parabolic Monge-Ampère equations</i>, AustMS Meeting 2019, Monash University, 12/5/2019. </li>
-	<!-- invited -->
-	<li><i>Conservation laws and the moduli space of solutions to PDE</i>, Topology Seminar, Ohio State University, 3/7/2019. </li>
-	<li><i>Conservation laws and parabolic Monge-Ampère equations</i>, Geometry/Topology Seminar, Stony Brook, 9/25/2018. <a href="Talks/Conservation laws and parabolic Monge Ampere.pdf">[Notes]</a> </li>
-	<li><i>Obstructions to flatness via the equivalence method</i>, Equivalence and EDS Seminar, Stony Brook, 2/15/2017. <a href="Talks/Method of Equivalence Background.pdf">[Notes]</a></li>
-	<li><i>Exterior Differential Systems, definitions and examples</i>, Equivalence and EDS Seminar, Stony Brook, 2/8/2017. </li>
-	<!-- invited -->
-	<li><i>The Geometry and Conservation Laws of Parabolic Equations</i>, Topology Seminar, OSU, 10/25/2016. <a href="Talks/Geometry of parabolic conservation laws.pdf">[Notes]</a></li>
-	<li><i>The Geometry and Conservation Laws of Parabolic Equations</i>, Geometry/Topology seminar, Stony Brook, 10/4/2016. <a href="Talks/Geometry of parabolic conservation laws.pdf">[Notes]</a></li>
-	<!-- invited -->
-	<li><i>The Geometry and Conservation Laws of Parabolic Equations</i>, Geometric Analysis seminar, Rutgers, 9/27/2016. <a href="Talks/Geometry of parabolic conservation laws.pdf">[Notes]</a></li>
-	<li><i>The Geometry and Conservation Laws of Parabolic Equations</i>, Student Differential Geometry Seminar, Berkeley, 9/24/2015.</li>
-	<li><i>The Geometry of Conservation Laws</i>, Student Differential Geometry Seminar, Berkeley, 12/5/2014.</li>
-	<li><i>Moving Frames and Geometric Invariants</i>, Graduate Student Topology & Geometry Conference, UT Austin, 4/5/2014. <a href="Talks/Spencer Cohomology.pdf">[Notes]</a></li>
-	<li><i>The Newlander-Nirenberg Theorem</i>, The Cartan Seminar, Stanford, 2/27/2014. <a href="Talks/Newlander-Nirenberg Theorem.pdf">[Notes]</a></li>
-	<li><i>Spencer Cohomology and Geometric Invariants</i>, Student Differential Geometry Seminar, Berkeley, 2/10/2014. <a href="Talks/Spencer Cohomology.pdf">[Notes]</a></li>
-	<li><i>Euler-Lagrange systems of EDS</i>, Student Differential Geometry Seminar, Berkeley, 11/14/2013 and 11/21/2013. <a href="Talks/Conservation laws for Euler-Lagrange systems.pdf">[Notes]</a></li>
-	<li><i>The Newlander-Nirenberg Theorem</i>, Student Differential Geometry Seminar, Berkeley, 4/10/2013. <a href="Talks/Newlander-Nirenberg Theorem.pdf ">[Notes]</a></li>
-	<li><i>Calibrated Geometries</i>, Student Differential Geometry Seminar, Berkeley, 2/6/2013.</li>
-	<li><i>Holonomy on Riemannian Manifolds</i>, Student Differential Geometry Seminar, Berkeley, 11/13/2012.
-	  <a href="Talks/Holonomy.pdf">[Notes]</a></li>
-	<li><i>EDS - Riemannian Surfaces Isometrically Embed in Space</i>, Student Differential Geometry Seminar, Berkeley, 9/25/2012.
-	  <a href="Talks/EDS - Riemannian surfaces embed.pdf">[Notes]</a></li>
-	<li><i>Exterior Differential Systems</i>, Harmonic Analysis and PDE Seminar, Berkeley, 4/3/2012.</li>
-	<li><i>Curvature and Local/Global Results in Geometry</i>, Many Cheerful Facts seminar, Berkeley, 4/8/2011.</li>
-	<li><i>Stochastic Loewner Evolutions and the Ginibre-Girko Ensemble</i>, Summer Undergraduate Research Fellowship presentation, Caltech, 10/2009.</li>
-      </ol>
+- title: "The secondary characteristic classes of singular foliations"
+  seminar: "Special Session, Geometry with Symmetries, AustMS Annual Meeting"
+  place: "University of Newcastle, New South Wales"
+  date: "12/8/2021"
+  notes: "Talks/Secondary characteristic classes singular foliations.pdf"
+
+- title: "Conservation laws and parabolic Monge–Ampère equations"
+  seminar: "Special Session, Geometry of Differential Equations, AMS JMM"
+  place: "Denver, Colorado"
+  date: "1/17/2020"
+  notes: "Talks/Conservation Laws and Parabolic Monge-Ampere JMM.pdf"
+  invited: true
+
+- title: "Conservation laws and parabolic Monge–Ampère equations"
+  seminar: "Special Session, Geometry including Differential Geometry, AustMS Annual Meeting"
+  place: "Monash University, Melbourne"
+  date: "12/5/2019"
+
+- title: "Conservation laws and the moduli space of solutions to PDE"
+  seminar: "Topology Seminar"
+  place: "Ohio State University"
+  date: "3/7/2019"
+  invited: true
+
+- title: "Conservation laws and parabolic Monge–Ampère equations"
+  seminar: "Geometry/Topology Seminar"
+  place: "Stony Brook University"
+  date: "9/25/2018"
+  notes: "Talks/Conservation laws and parabolic Monge Ampere.pdf"
+
+- title: "Obstructions to flatness via the equivalence method"
+  seminar: "Equivalence and EDS Seminar"
+  place: "Stony Brook University"
+  date: "2/15/2017"
+  notes: "Talks/Method of Equivalence Background.pdf"
+
+- title: "Exterior differential systems, definitions and examples"
+  seminar: "Equivalence and EDS Seminar"
+  place: "Stony Brook University"
+  date: "2/8/2017"
+
+- title: "The geometry and conservation laws of parabolic equations"
+  seminar: "Topology Seminar"
+  place: "Ohio State University"
+  date: "10/25/2016"
+  notes: "Talks/Geometry of parabolic conservation laws.pdf"
+  invited: true
+
+- title: "The geometry and conservation laws of parabolic equations"
+  seminar: "Geometry/Topology Seminar"
+  place: "Stony Brook University"
+  date: "10/4/2016"
+  notes: "Talks/Geometry of parabolic conservation laws.pdf"
+
+- title: "The geometry and conservation laws of parabolic equations"
+  seminar: "Geometric Analysis seminar"
+  place: "Rutgers"
+  date: "9/27/2016"
+  notes: "Talks/Geometry of parabolic conservation laws.pdf"
+  invited: true
+
+- title: "The geometry and conservation laws of parabolic equations"
+  seminar: "Student Differential Geometry Seminar"
+  place: "Berkeley"
+  date: "9/24/2015"
+
+- title: "The geometry of conservation laws"
+  seminar: "Student Differential Geometry Seminar"
+  place: "Berkeley"
+  date: "12/5/2014"
+
+- title: "Moving frames and geometric invariants"
+  seminar: "Graduate Student Topology and Geometry Conference"
+  place: "UT Austin"
+  date: "4/5/2014"
+  notes: "Talks/Spencer Cohomology.pdf"
+
+- title: "The Newlander–Nirenberg theorem"
+  seminar: "The Cartan Seminar"
+  place: "Stanford"
+  date: "2/27/2014"
+  notes: "Talks/Newlander-Nirenberg Theorem.pdf"
+
+- title: "Spencer cohomology and geometric invariants"
+  seminar: "Student Differential Geometry Seminar"
+  place: "Berkeley"
+  date: "2/10/2014"
+  notes: "Talks/Spencer Cohomology.pdf"
+
+- title: "Euler–Lagrange systems of EDS"
+  seminar: "Student Differential Geometry Seminar"
+  place: "Berkeley"
+  date: "11/14/2013 and 11/21/2013"
+  notes: "Talks/Conservation laws for Euler-Lagrange systems.pdf"
+
+- title: "The Newlander–Nirenberg theorem"
+  seminar: "Student Differential Geometry Seminar"
+  place: "Berkeley"
+  date: "4/10/2013"
+  notes: "Talks/Newlander-Nirenberg Theorem.pdf"
+
+- title: "Calibrated geometries"
+  seminar: "Student Differential Geometry Seminar"
+  place: "Berkeley"
+  date: "2/6/2013"
+
+- title: "Holonomy on Riemannian manifolds"
+  seminar: "Student Differential Geometry Seminar"
+  place: "Berkeley"
+  date: "11/13/2012"
+  notes: "Talks/Holonomy.pdf"
+
+- title: "EDS – Riemannian surfaces isometrically embed in space"
+  seminar: "Student Differential Geometry Seminar"
+  place: "Berkeley"
+  date: "9/25/2012"
+  notes: "Talks/EDS - Riemannian surfaces embed.pdf"
+
+- title: "Exterior differential systems"
+  seminar: "Harmonic Analysis and PDE Seminar"
+  place: "Berkeley"
+  date: "4/3/2012"
+
+- title: "Curvature and local/global results in geometry"
+  seminar: "Many Cheerful Facts seminar"
+  place: "Berkeley"
+  date: "4/8/2011"
+
+- title: "Stochastic Loewner evolutions and the Ginibre–Girko ensemble"
+  seminar: "Summer Undergraduate Research Fellowship presentation"
+  place: "Caltech"
+  date: "10/2009"
