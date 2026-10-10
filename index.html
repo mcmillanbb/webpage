@@ -13,9 +13,27 @@
      }
 
      html { background: #e9f7ff; }
+
      body {
        background: white;
        box-shadow: 0 1px 4px rgba(0, 0, 0, 0.08);
+       max-width: 52em;
+       margin: 2em auto;
+       padding: 1.5em 3em;
+     }
+
+     header {
+       display: flex;
+       gap: 40px;
+       align-items: flex-start;
+     }
+
+     @media (max-width: 40em) {
+       header {
+	 flex-direction: column-reverse;
+	 align-items: center;
+       }
+       body { padding: 1em 1.2em; }
      }
 
      ul.paper {
@@ -36,8 +54,8 @@
     </style>
   </head>
 
-  <body style="max-width: 52em; margin: 2em auto; padding: 1.5em 3em">
-    <header style="display: flex; gap: 40px; align-items: flex-start">
+  <body>
+    <header>
       <div>
 	<h1 style="margin-left: 5%">Benjamin B. McMillan</h1>
 	<p>
