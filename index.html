@@ -12,12 +12,17 @@
        box-sizing: border-box;
      }
 
-     html { background: #e9f7ff; }
+     html {
+       background: #e9f7ff;
+       overflow-anchor: none;
+       --photo-top: 6em;
+     }
 
      body {
        background: white;
        box-shadow: 0 1px 4px rgba(0, 0, 0, 0.08);
        max-width: 52em;
+       min-height: 100vh;
        margin: 2em auto;
        padding: 1.5em 3em;
      }
@@ -51,6 +56,25 @@
      .date  { color: gray; }
      .status { color: gray; }
 
+     .window {
+       position: relative;
+       clip-path: inset(0);
+       height: 7.5em;
+       margin: 1em 0;
+     }
+
+     .window::before {
+       content: "";
+       position: fixed;
+       inset: 0;
+       background: url("photos/bike.jpg") center var(--photo-top) / min(52em, 100%) auto no-repeat;
+     }
+
+     /* Tall enough that the furthest scroll brings the window's top to the photo's top;
+	3.5em is the body's bottom padding and margin. */
+     .from-window {
+       min-height: calc(100vh - var(--photo-top) - 3.5em);
+     }
     </style>
   </head>
 
@@ -80,10 +104,12 @@
 	  When not working, I like to rock climb and go on bike rides with my family, or work on coding projects.
 	</p>
       </div>
-	<img src="Benjamin-downsized.jpg" alt="A photo of myself." style="width: 250px">
+      <img src="photos/Benjamin-downsized.jpg" alt="A photo of myself." style="width: 250px">
     </header>
 
-    <hr>
+    <div class="from-window">
+    <div class="window" role="img" aria-label="My bike in a field of orange cosmos."></div>
+
     <h2 style="margin-left: 5%">Publications</h2>
 
     <ul class="paper">
@@ -101,6 +127,7 @@
     </ul>
 
     <center>&lt;8&Omega;~~</center>
+    </div>
 
     <!-- <h2>Teaching</h2>
 	 This semester I am teaching Math 315, Advanced Linear Algebra. The course webpage is <a href="math315/index.html">here</a>. -->
